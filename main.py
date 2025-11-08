@@ -21,3 +21,5 @@ def get_tarefas():
 #e liga o servidor executando o Flask😁
 if __name__ == "__main__":
     app.run(debug=True)
+
+    
